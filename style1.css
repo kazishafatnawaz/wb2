@@ -1,0 +1,13 @@
+#apple1{
+      color: blue;
+}
+#apple1:hover{
+      color: red;
+}
+#b{
+      color: brown;
+}
+
+#b:hover{
+      color: rgb(235, 88, 88);
+}
